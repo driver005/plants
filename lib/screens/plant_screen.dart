@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:plant_app/models/plant_model.dart';
+import 'package:plant/models/plant_model.dart';
 
 class PlantScreen extends StatefulWidget {
   final Plant plant;

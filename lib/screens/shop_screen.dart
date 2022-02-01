@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:plant_app/models/plant_model.dart';
-import 'package:plant_app/screens/plant_screen.dart';
+import 'package:plant/models/plant_model.dart';
+import 'package:plant/screens/plant_screen.dart';
 
 class ShopScreen extends StatefulWidget {
   @override
